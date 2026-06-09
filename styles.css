@@ -4,6 +4,7 @@
     align-items: center;
     width: 100vw;
     height: 100vh;
+	flex-wrap: wrap;
 }
 .item{
 	 width: 100px;
@@ -38,6 +39,7 @@
         flex: 0 0 120px;
         font-size: 60px;
         color: black;
+	
 }
 
  .part:nth-child(1) {
